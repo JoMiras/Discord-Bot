@@ -59,4 +59,4 @@ client.on('voiceStateUpdate', (oldState, newState) => {
     }
 });
  
-client.login("MTEwMzQ3MzMyODgyNTU4NTc3NA.GpTTOG.EmGwZ46bZJb9UJOxW7SmJAVviuMpztW9X5VNF8"); 
+client.login("Input Token Here"); 
