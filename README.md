@@ -12,6 +12,7 @@ The image below are the text channel id's that you would have to replace.
 ![image](https://github.com/JoMiras/Discord-Bot/assets/132711477/6296f288-1b5a-4179-988b-9d19d65db34e)
 
 Simply right clicking on a text channel should bring up a menu, and you should be able to grab the Channel ID by selecting "Copy Channel ID". An example is provided here:
+
 ![image](https://github.com/JoMiras/Discord-Bot/assets/132711477/2788fc86-429f-494c-9e77-4f8e53761055)
 
 Lastly: 
