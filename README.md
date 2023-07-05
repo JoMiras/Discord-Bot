@@ -16,6 +16,9 @@ Simply right clicking on a text channel should bring up a menu, and you should b
 
 ![image](https://github.com/JoMiras/Discord-Bot/assets/132711477/2788fc86-429f-494c-9e77-4f8e53761055)
 
+The output is for what staffing members can only see, so creating a private channel for only the staff to look at is my intention. 
+The logChannelID is where our students are going to be logging their hours with the !log command. 
+
 Lastly: 
 In order for the bot to function. The final line of the code has 'client.login("you have to ask me for this info');
 Please ask me, as I cannot publicly provide this bot for everyone. 
