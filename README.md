@@ -25,7 +25,9 @@ Please ask me, as I cannot publicly provide this bot for everyone.
 
 
 Current commands:
+
 !log - Logs the time for the student. 
+
 !stop - Stops the bot entirely. Must reboot from Visual Studio Code (run the code again) in order to function. 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
