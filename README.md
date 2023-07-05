@@ -2,6 +2,7 @@
 Hello!
 This is a Discord Bot with the intention of logging the hours of our students. His name is "EyeSpy", and I hope he is of great use to you. 
 The images you'll find below are what you should see when you have him working his shift. 
+
 ![image](https://github.com/JoMiras/Discord-Bot/assets/132711477/5bb0357b-c9df-456a-be85-7e084547a8ff)
 ![image](https://github.com/JoMiras/Discord-Bot/assets/132711477/5e1385d6-7be5-484e-a77f-4df545ea8a15)
 
@@ -28,4 +29,5 @@ Current commands:
 
 Thank you so much!
 Best Regards:
+
   JonahM
